@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flask, React and React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.lemin08.tech/](https://portfolio.lemin08.tech/)
-
 - 💬 Ask me about **Html/CSS, Tailwind, Sass, React, Python, Ruby, Expo and Linux**
 
 - 📫 How to reach me **AngelicCapy@protonmail.com**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lemine mahjoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemine mahjoub" height="30" width="40" /></a>
+  
   <a href="https://instagram.com/angeliccapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angeliccapy" height="30" width="40" /></a>
 <a href="https://dribbble.com/angeliccapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="angeliccapy" height="30" width="40" /></a>
 <a href="https://discord.com/users/623143727828959254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="623143727828959254" height="30" width="40" /></a>
